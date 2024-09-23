@@ -1,6 +1,6 @@
 <x-landing-layout>
     <div class="w-full">
-        <img class="w-full" src="{{asset('/background.jpeg')}}"/>
+        <img class="w-full" src="asset/MASJID.png"/>
     </div>
     
     <div class="w-full p-12">
